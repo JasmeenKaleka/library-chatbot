@@ -254,4 +254,4 @@ Answer in 3-4 complete sentences.
 # -----------------------------------
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
